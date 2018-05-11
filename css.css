@@ -1,0 +1,23 @@
+body{
+	background-color: darkred;
+}
+.cabecalho{
+	background-color: orange;
+}
+
+.rodape{
+	background-color: darkgreen;
+}
+h1 {
+    font-size: 50px;
+}
+h1 {
+    text-shadow: 5px 5px 6px black;
+}
+
+p {
+	font-size: 25px
+}
+p {
+    text-shadow: 5px 5px 6px black;
+}
